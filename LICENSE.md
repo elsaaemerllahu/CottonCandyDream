@@ -1,4 +1,4 @@
-# bubblegum License
+# CottonCandyDream License
 
 You are free to use, modify, and distribute the content without any restrictions. However, please be aware that Elsa Emerllahu holds the copyright for these works.
 
