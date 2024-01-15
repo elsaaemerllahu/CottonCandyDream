@@ -3,12 +3,23 @@
   "displayName": "CottonCandyDream",
   "description": "",
   "version": "0.0.1",
+  "publisher": "elsaemr",
   "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "pink",
+    "theme",
+    "vscode",
+    "CottonCandyDream"
+  ],
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/elsaaemerllahu/CottonCandyDream"
+  },
   "contributes": {
     "themes": [
       {
